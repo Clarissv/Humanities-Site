@@ -1,6 +1,6 @@
 # About
-This is site is for educational purposes.
-
+This site is made for educational purposes.      
+Template used for this site:
 ::github{repo="saicaca/fuwari"}
 
 > ### Sources of images used in this site
