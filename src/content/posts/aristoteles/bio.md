@@ -1,14 +1,11 @@
 ---
-title: Draft Aristoteles
+title: Biodata Aristoteles
 published: 2025-08-19
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [Biodata, Video]
 category: Introduction
 draft: false
 ---
-
-
-## Biodata Aristoteles
 
 - **Nama:** Aristoteles
 - **Lahir:** 384 SM
