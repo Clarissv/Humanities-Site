@@ -3,7 +3,7 @@ title: Biodata Aristoteles
 published: 2025-08-19
 description: This post demonstrates how to include embedded video in a blog post.
 tags: [Biodata, Video]
-category: Introduction
+category: [Aristoteles, Introduction]
 draft: false
 ---
 
