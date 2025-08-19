@@ -9,6 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Humanities",
+	url: "https://intellectual-journey-socratic-era.vercel.app",
 	subtitle: "Intellectual Journey",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
