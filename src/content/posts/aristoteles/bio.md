@@ -1,7 +1,7 @@
 ---
 title: Biodata Aristoteles
 published: 2025-08-19
-description: This post demonstrates how to include embedded video in a blog post.
+description: Post ini berisi informasi umum mengenai filsuf kuno Aristoteles.
 tags: [Biodata, Video]
 category: Aristoteles
 draft: false

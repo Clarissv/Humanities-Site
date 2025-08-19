@@ -40,5 +40,7 @@ export function getDir(path: string): string {
 }
 
 export function url(path: string) {
-	return joinUrl("", import.meta.env.BASE_URL, path);
+	// Always use the deployed Vercel domain as the base
+	const base = "https://intellectual-journey-socratic-era.vercel.app";
+	return joinUrl(base, path);
 }
