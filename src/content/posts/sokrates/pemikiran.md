@@ -1,6 +1,6 @@
 ---
 title: Pemikiran Sokrates
-published: 2025-08-20
+published: 2025-08-21
 description: Post ini berisi tentang pemikiran tokoh mengenai yang signifikan.
 tags: [Pemikiran]
 category: Sokrates
