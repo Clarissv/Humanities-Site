@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatarfix.jpeg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/avatarfix.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Group 1 Major B: Humanities 3",
 	bio: "The journey of philosophy in Socratic Era.",
 	links: [
