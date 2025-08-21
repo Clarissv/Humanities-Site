@@ -1,6 +1,13 @@
 # About
-This site is made for educational purposes.      
-Template used for this site:
+This site is made for educational purposes.
+
+## Group members in this website project
+> - Angelique Monica Widjaja
+> - Kelly Randy Lim
+> - Konrad Raditya Dunk Kusuma
+> - Shanice Alexandra 
+
+## Template used for this site:
 ::github{repo="saicaca/fuwari"}
 
 > ### Sources of images used in this site
