@@ -1,0 +1,40 @@
+---
+title: Signifikansi Pemikiran Sokrates terhadap Dunia Modern.
+published: 2025-08-21
+description: Post ini berisi tentang pemikiran Sokrates yang masih relevan hingga saat ini.
+tags: [Signifikansi]
+category: Sokrates
+draft: false
+---
+
+## 1. Pendidikan dan Pengembangan Karakter
+
+Menurut Dano (2023), pemikiran Sokrates melalui **Socratic Method** berperan penting dalam membentuk karakter dan kepemimpinan generasi muda masa kini. Metode ini menekankan pentingnya bertanya secara kritis dan melakukan refleksi diri. Dengan cara ini, seseorang tidak hanya mencari jawaban, tetapi juga memahami proses berpikir yang melahirkan jawaban tersebut.
+
+> Bukankah lebih berharga menemukan jawaban dengan berpikir kritis daripada hanya menerima begitu saja?
+
+Dano menegaskan bahwa metode ini membantu anak muda belajar bertanggung jawab, berpikir terbuka, serta siap menghadapi tantangan zaman. Selain itu, metode Socratic juga mengajarkan untuk mendengarkan orang lain, menghargai perbedaan pendapat, dan berkomunikasi dengan bijak, sehingga relevan untuk membentuk generasi yang etis, kritis, dan mampu memimpin dengan bijaksana.
+
+## 2. Etika dan Kesejahteraan
+
+Menurut Xu (2025), pandangan Sokrates tentang kebahagiaan menekankan bahwa kebahagiaan sejati tidak datang dari harta atau status sosial, melainkan dari hidup yang bermoral dan berintegritas. Ia percaya bahwa seseorang akan lebih bahagia ketika hidup dijalani dengan kebaikan dan pengembangan diri, bukan sekadar mengejar hal-hal material.
+
+> Bukankah kita sering terjebak dalam anggapan bahwa semakin banyak harta berarti semakin bahagia?
+
+Pandangan ini sangat relevan di zaman modern, ketika banyak orang menilai kebahagiaan dari pencapaian luar. Xu menekankan bahwa ajaran Sokrates mengajak setiap orang untuk berhenti sejenak, merenung, dan mengevaluasi kembali apa yang benar-benar penting dalam hidup. Dengan begitu, kebahagiaan yang diperoleh akan lebih bermakna, mendalam, dan bertahan lama.
+
+## 3. Politik dan Kritik Sosial
+
+Menurut Ravasio (2022), Sokrates sering disebut sebagai gadfly atau “pengganggu politik” karena keberaniannya mengkritik kekuasaan dan norma yang tidak adil. Ia tidak hanya berpikir, tetapi juga berani bertindak menyuarakan kebenaran meskipun berisiko.
+
+> Apakah keberanian untuk mempertanyakan kekuasaan masih relevan di era sekarang?
+
+Ravasio menekankan bahwa Sokrates mendorong setiap orang untuk tidak menerima begitu saja aturan atau kebijakan yang berlaku, tetapi menilai apakah aturan itu benar dan adil. Cara ini mendorong masyarakat untuk lebih kritis dan berani terlibat dalam kehidupan sosial maupun politik. Dengan semangat tersebut, pemikiran Sokrates tetap relevan untuk membangun masyarakat yang demokratis, adil, dan berlandaskan moral.
+
+## 4. Metodologi Filosofis
+
+Menurut Sheffield (2021), metode tanya jawab atau dialektika Sokrates sangat berguna dalam kehidupan sehari-hari maupun dalam dunia pendidikan. Dengan mengajukan pertanyaan mendalam, seseorang dapat mengenal dirinya sendiri sekaligus memahami dunia di sekitarnya.
+
+> Pernahkah kita menyadari bahwa satu pertanyaan sederhana bisa mengubah cara kita memandang hidup?
+
+Sheffield menjelaskan bahwa metode ini melatih orang untuk tidak langsung percaya pada informasi yang diterima, tetapi mengujinya kembali dengan kritis. Kebiasaan ini membentuk pola pikir reflektif, sehingga keputusan diambil dengan lebih bijaksana. Oleh karena itu, metode Socratic tetap relevan hingga saat ini karena melatih manusia untuk lebih cerdas, kritis, dan arif dalam menghadapi berbagai persoalan hidup.
