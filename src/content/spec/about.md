@@ -7,7 +7,7 @@ This site is made for educational purposes.
 > - Konrad Raditya Dunk Kusuma
 > - Shanice Alexandra 
 
-## Template used for this site:
+## Template used for this site
 ::github{repo="saicaca/fuwari"}
 
 > ### Sources of information used for this site
