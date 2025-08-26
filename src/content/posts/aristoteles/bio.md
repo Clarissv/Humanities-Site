@@ -4,7 +4,7 @@ published: 2025-08-19
 description: Post ini berisi informasi umum mengenai filsuf kuno Aristoteles.
 tags: [Biodata, Video]
 category: Aristoteles
-draft: false
+draft: true
 ---
 
 - **Nama:** Aristoteles
